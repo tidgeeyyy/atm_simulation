@@ -30,4 +30,4 @@ g++ main.cpp -o atm_simulation
 
 ---
 
-Group project by **tidgeeyyy** and team
+Group project by **tjyalmorin** and team
