@@ -1,4 +1,4 @@
-# ATM Simulation
+# ATM Simulator
 
 A simple ATM system simulation built with C++ that uses a flash drive as an ATM card.
 
